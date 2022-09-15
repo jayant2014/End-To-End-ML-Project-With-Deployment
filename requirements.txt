@@ -1,6 +1,7 @@
 Flask
-sklearn
+xgboost
 pandas
 numpy
 matplotlib
 gunicorn
+sklearn
